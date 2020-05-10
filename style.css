@@ -1,0 +1,5 @@
+/*Nav bar styles*/
+.navigation{
+    display: flex; 
+    flex-direction: row; 
+}
